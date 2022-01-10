@@ -1,5 +1,5 @@
 # DeepCompression-PyTorch
-fork自
+fork自[https://github.com/yangbingjie/DeepCompression-PyTorch]
 
 
 
